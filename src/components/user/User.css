@@ -1,0 +1,25 @@
+.user{
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 15px 10px 10px grey;
+    margin: 10px 50px;
+    padding: 20px;
+    display: flex;
+
+}
+.user_img img {
+    height: 250px;
+    border-radius: 10px;
+}
+.user_info{
+    padding-left: 20px;
+}
+/* .hobbyDiv{
+    color: rgb(0, 71, 77);
+    display: flex;
+}
+.hobbyDiv p{
+    color: rgb(0, 0, 0);
+    margin-right: 5px;
+    align-items: center;
+} */
